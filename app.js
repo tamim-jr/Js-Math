@@ -28,3 +28,14 @@ console.log(value);
 
 value = Math.floor(2.1);
 console.log(value);
+
+value = Math.sqrt(64);
+console.log(value);
+
+//min max
+
+value = Math.min(2, 6, 8, 10, 1);
+console.log(value);
+
+value = Math.max(45, 100, 2, 8);
+console.log(value);
